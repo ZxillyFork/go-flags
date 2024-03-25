@@ -1,4 +1,4 @@
-// +build !forceposix
+// +build neverandnever
 
 package flags
 

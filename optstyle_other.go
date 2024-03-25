@@ -1,5 +1,3 @@
-// +build !windows forceposix
-
 package flags
 
 import (
